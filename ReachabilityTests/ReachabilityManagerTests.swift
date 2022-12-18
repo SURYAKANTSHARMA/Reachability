@@ -118,7 +118,9 @@ private func makeSUT(monitor: NWPathMonitorInterface
 }
 
 private class MonitorSpy: NWPathMonitorInterface {
-    
+    var currentPath: NWPath {
+        fatalError("Cannot instantiate it")
+    }
     var startCallingCounter = 0
     var startCallSink: DispatchQueue?
     
