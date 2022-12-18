@@ -2,7 +2,7 @@
 //  ReachabilityManagerTests.swift
 //  ReachabilityManagerTests
 //
-//  Created by Rapido on 06/10/22.
+//  Created by Surya on 06/10/22.
 //
 
 import XCTest

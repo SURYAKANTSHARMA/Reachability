@@ -2,7 +2,7 @@
 //  ReachabilityViewAdaptor.swift
 //  Reachability
 //
-//  Created by Rapido on 07/10/22.
+//  Created by Surya on 07/10/22.
 //
 
 import UIKit
