@@ -18,8 +18,6 @@
 		05DEDFE828EF01BF008A885B /* SwiftMessages in Frameworks */ = {isa = PBXBuildFile; productRef = 05DEDFE728EF01BF008A885B /* SwiftMessages */; };
 		05DEDFEA28EFF2BF008A885B /* ReachabilityViewAdaptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DEDFE928EFF2BF008A885B /* ReachabilityViewAdaptor.swift */; };
 		05DEDFEC28EFF2D0008A885B /* ReachabilityViewAdaptorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DEDFEB28EFF2D0008A885B /* ReachabilityViewAdaptorTests.swift */; };
-		05DEDFF828F4253F008A885B /* plusTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DEDFF728F4253F008A885B /* plusTests.swift */; };
-		05DEDFFA28F428FC008A885B /* ReachabilityManagerTests2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DEDFF928F428FC008A885B /* ReachabilityManagerTests2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,8 +44,6 @@
 		05DEDFE428EEFE07008A885B /* ReachabilityManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReachabilityManager.swift; sourceTree = "<group>"; };
 		05DEDFE928EFF2BF008A885B /* ReachabilityViewAdaptor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReachabilityViewAdaptor.swift; sourceTree = "<group>"; };
 		05DEDFEB28EFF2D0008A885B /* ReachabilityViewAdaptorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReachabilityViewAdaptorTests.swift; sourceTree = "<group>"; };
-		05DEDFF728F4253F008A885B /* plusTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plusTests.swift; sourceTree = "<group>"; };
-		05DEDFF928F428FC008A885B /* ReachabilityManagerTests2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReachabilityManagerTests2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,8 +104,6 @@
 			children = (
 				05DEDFCB28EEA674008A885B /* ReachabilityManagerTests.swift */,
 				05DEDFEB28EFF2D0008A885B /* ReachabilityViewAdaptorTests.swift */,
-				05DEDFF728F4253F008A885B /* plusTests.swift */,
-				05DEDFF928F428FC008A885B /* ReachabilityManagerTests2.swift */,
 			);
 			path = ReachabilityTests;
 			sourceTree = "<group>";
@@ -235,8 +229,6 @@
 			files = (
 				05DEDFCC28EEA674008A885B /* ReachabilityManagerTests.swift in Sources */,
 				05DEDFEC28EFF2D0008A885B /* ReachabilityViewAdaptorTests.swift in Sources */,
-				05DEDFF828F4253F008A885B /* plusTests.swift in Sources */,
-				05DEDFFA28F428FC008A885B /* ReachabilityManagerTests2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
