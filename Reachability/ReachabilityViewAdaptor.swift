@@ -23,7 +23,6 @@ struct ReachabilityViewAdaptor {
     }
     
     func updateNetworkStatus(_ status: Bool) {
-        onNetworkAvailable()
         status ? onNetworkAvailable() : onNetworkUnavailable()
     }
     
